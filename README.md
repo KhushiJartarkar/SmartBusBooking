@@ -1,32 +1,40 @@
-# SmartBusBooking
-SmartBusBooking is a ReactJS web app for bus ticketing and student pass management. With a MySQL backend on WAMP Server, it securely handles users, bookings, payments, and routes, providing real-time updates and a smooth, intuitive interface for commuters.
+# ChigariGO
 
-## 🚀 Project Demo
-[**Click here to view the live demo**](https://drive.google.com/file/d/1F5xjcUa-Pb00WenakpK1QkQDyZeL1ckX/view?usp=sharing)
+**ChigariGO** is an advanced web application, meticulously crafted using **ReactJS**, designed to streamline the ticketing experience for the Chigari Bus Rapid Transit System (BRTS). The platform integrates various modules to provide a seamless and user-friendly interface, catering to the needs of both regular commuters and new users.
+This project was done as the 
 
-## ✨ Features
+<img src="https://github.com/user-attachments/assets/eea8ff42-6f2d-47a3-ad3c-c428ea56b38d" alt="GO" width="300">
 
-### 1. Ticket Booking Module
-- Book tickets seamlessly with a user-friendly interface.
-- Integrated with **PhonePe Payment Gateway API** for secure, hassle-free transactions.
+## Project Demo
 
-### 2. Student Pass Management
-- **Registration:** Simple process for students to register and avail discounted fares.
-- **Recharge:** Quick and easy online recharge for student passes.
+Check out the demonstration of the **ChigariGO** application here:  
+[**Project Demo**](https://drive.google.com/file/d/1F5xjcUa-Pb00WenakpK1QkQDyZeL1ckX/view?usp=sharing)
 
-### 3. Route Map
-- Interactive module showing routes and schedules.
-- Helps users efficiently plan their journeys.
+## Features
 
-### 4. Login and Registration
-- Secure authentication system to protect user accounts.
-- Smooth registration for new users and seamless login for existing ones.
+### 1. **Ticket Booking Module**
+Effortlessly book tickets for Chigari BRTS using a streamlined interface. This module is seamlessly integrated with the **PhonePe Payment Gateway API**, ensuring secure and hassle-free transactions.
 
-### 5. About Page
-- Comprehensive details about the SmartBusBooking system and its features.
+<img src="https://github.com/user-attachments/assets/dbba76e5-4b85-4d67-869c-204c3220a53b" alt="Ticket Booking Module" width="300">
 
-## 🛠 Technologies Used
-- **Frontend:** ReactJS (dynamic, responsive UI)
-- **Backend:** MySQL (via WAMP Server)
-- **Payment Integration:** PhonePe Payment Gateway API
-- **Authentication:** Secure login/registration system
+### 2. **Student Pass Management**
+- **Registration**: Enables students to easily register for a pass, granting them access to discounted fares.
+- **Recharge**: Allows students to conveniently recharge their passes through the platform.
+
+### 3. **Route Map**
+- Interactive module displaying the routes and schedules of Chigari BRTS.
+- Assists users in planning their journeys efficiently.
+
+### 4. **Login and Registration**
+- Features a secure **authentication system** to protect user accounts.
+- Enables new users to register effortlessly while providing a smooth login experience for existing users.
+
+### 5. **About Page**
+Provides detailed information about the Chigari BRTS system and the ChigariGO application.
+
+## Technologies Used
+
+- **Frontend**: ReactJS for creating a dynamic and responsive user interface.
+- **Payment Integration**: PhonePe Payment Gateway API for secure online transactions.
+- **Backend**: Database integration for managing user data, recharge history, and route information.
+- **Authentication**: Secure login and registration mechanisms to safeguard user accounts.
