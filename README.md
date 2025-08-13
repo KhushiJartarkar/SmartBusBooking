@@ -30,6 +30,10 @@ Check out the demonstration of the application here:
 ### 5. About Page
 - Comprehensive details about the SmartBusBooking system and its features.
 
+### 6. Backend & Database Management
+- Powered by **MySQL** on **WAMP Server** to securely store user accounts, ticket bookings, student passes, payment records, and route information.
+- Ensures real-time updates, reliable data storage, and smooth integration with the frontend.
+
 ---
 
 ## 🛠 Technologies Used
