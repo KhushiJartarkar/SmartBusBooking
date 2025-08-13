@@ -1,4 +1,4 @@
-#Smart Bus Booking
+# Smart Bus Booking
 
 SmartBusBooking is an advanced web application built with ReactJS to streamline ticketing and pass management for bus rapid transit systems.
 Designed for both daily commuters and new passengers, the platform integrates multiple modules into a clean, intuitive interface, making travel planning and ticket purchasing effortless.
